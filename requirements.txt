@@ -1,0 +1,11 @@
+opencv
+numpy
+matplotlib
+torch==2.3.1+cu121
+torchvision
+--index-url https://download.pytorch.org/whl/cu121
+mediapipe
+mmcv==2.1.0
+mmdet==3.2.0
+mmengine==0.11.0
+mmpose==1.3.2
