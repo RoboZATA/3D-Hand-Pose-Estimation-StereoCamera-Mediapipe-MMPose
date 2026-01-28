@@ -14,7 +14,8 @@ This video shows the 2D keypoints of running Mediapipe and the 3D plots of each 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/71ac803b-e8d6-4938-b31f-57551a7a09c4" autoplay loop muted playsinline></video>
 </div>
----
+
+
 This video shows the mirroring of the hand's movements to a simulated SVH robotic hand.
 <div align="center">
   <video src="https://github.com/user-attachments/assets/9f4e18aa-6794-4248-b4ce-9302f4569154" autoplay loop muted playsinline></video>
