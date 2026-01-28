@@ -14,6 +14,14 @@ This video shows the 2D keypoints of running Mediapipe and the 3D plots of each 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/71ac803b-e8d6-4938-b31f-57551a7a09c4" autoplay loop muted playsinline></video>
 </div>
+---
+This video shows the mirroring of the hand's movements to a simulated SVH robotic hand.
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/9f4e18aa-6794-4248-b4ce-9302f4569154" autoplay loop muted playsinline></video>
+</div>
+The 3D hand keypoints used in the videos were generated using a Kaggle notebook:
+[Link to Kaggle Notebook](https://www.kaggle.com/code/zeinsoliman/notebook5c5639a29b)
+
 
 ## 📁 Repository Structure
 
@@ -159,6 +167,9 @@ Overall MPJPE (z) without Distortion (modeled): 12.52 mm
 This project was inspired by and extends the work from 
 [handpose3d](https://github.com/TemugeB/handpose3d) by [Temuge Batpurev], 
 licensed under the MIT License.
+This project uses the 
+[dex-retargeting](https://github.com/dexsuite/dex-retargeting) repository for hand pose retargeting and robot hand simulation.
+The simulation videos are generated using dex-retargeting’s retargeting and rendering pipeline.
 
 Key improvements in this repository include:
 - Fisheye distortion modeling for improved triangulation accuracy

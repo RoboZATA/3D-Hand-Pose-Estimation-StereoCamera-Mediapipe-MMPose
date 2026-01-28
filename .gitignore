@@ -1,0 +1,42 @@
+# Python cache and compiled files
+__pycache__
+.pyc
+.pyo
+.pyd
+
+# Distribution  packaging
+build
+dist
+.egg-info
+.egg
+.whl
+
+# Virtual environments
+.env
+.venv
+env
+venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm  VSCode settings
+.vscode
+.idea
+.sublime-project
+.sublime-workspace
+
+# Logs
+.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Model  large data files (optional if not committed)
+.h5
+.pt
+.ckpt
+.onnx
+.npy
+.npz
