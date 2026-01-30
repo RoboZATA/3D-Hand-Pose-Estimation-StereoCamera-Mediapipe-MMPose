@@ -154,9 +154,9 @@ python Camera\ Distortion/Mediapipe3d_Distortion_Modeled.py
 ---
 ## Results
 ### This image represents xyz plot of a joint for multiple samples. the plot shows the original noised data, the iir-filtered, and the fir-filtered
-![Alt text](Data/xyz_plot.png)
+![Alt text](Camera%20Distortion/data/xyz_plot.png)
 ### After Running the MJE.py file it outputed this plot of the MPJPE of z coordinates across frames in addition to the global mean error:
-![Alt text](Data/MPJPE.png)
+![Alt text](Camera%20Distortion/data/MPJPE.png)
 
 ```
 Overall MPJPE (z) with Distortion: 17.93 mm
