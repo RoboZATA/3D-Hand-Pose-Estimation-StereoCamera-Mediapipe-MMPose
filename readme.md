@@ -159,8 +159,8 @@ python Camera\ Distortion/Mediapipe3d_Distortion_Modeled.py
 ![Alt text](Camera%20Distortion/data/MPJPE.png)
 
 ```
-Overall MPJPE (z) with Distortion: 17.93 mm
-Overall MPJPE (z) without Distortion (modeled): 12.52 mm
+Overall MPJPE (z) without distortion modeling: 17.93 mm
+Overall MPJPE (z) with fisheye distortion modeled: 12.52 mm
 ```
 ### This error was calculated over a total of 2000 different frames
 ## Acknowledgements
